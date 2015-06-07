@@ -1,4 +1,4 @@
-# easemob-php
+# EaseApi
 环信 PHP Restful API
 
 测试账号
